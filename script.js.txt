@@ -1,0 +1,6 @@
+// Exemple d'interaction simple
+document.querySelectorAll('.product button').forEach(button => {
+  button.addEventListener('click', () => {
+    alert('Produit ajouté au panier !');
+  });
+});
