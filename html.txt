@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accessoires Auto & Camion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Accessoires Auto & Camion</h1>
+    <p>Équipez vos véhicules avec style et praticité !</p>
+  </header>
+
+  <main>
+    <section class="products">
+      <h2>Nos Produits</h2>
+      <div class="product">
+        <img src="assets/volant.jpg" alt="Housse de Volant">
+        <h3>Housse de Volant</h3>
+        <p>Ajoutez du style et du confort à votre conduite.</p>
+        <button>Voir le produit</button>
+      </div>
+      <div class="product">
+        <img src="assets/tapis.jpg" alt="Tapis de Voiture">
+        <h3>Tapis de Voiture</h3>
+        <p>Protégez votre sol avec élégance.</p>
+        <button>Voir le produit</button>
+      </div>
+      <div class="product">
+        <img src="assets/coffre.jpg" alt="Organisateur de Coffre">
+        <h3>Organisateur de Coffre</h3>
+        <p>Gardez vos affaires bien rangées.</p>
+        <button>Voir le produit</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Accessoires Auto & Camion. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
